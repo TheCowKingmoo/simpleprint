@@ -1,1 +1,1 @@
-window.alert("Welcome to my site!")
+document.write(5 + 6);
